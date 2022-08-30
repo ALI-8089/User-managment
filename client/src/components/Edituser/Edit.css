@@ -1,0 +1,13 @@
+.login{
+    background-image: linear-gradient(to bottom right, rgb(23, 34, 237), rgb(136, 11, 161));
+   
+    max-height: 100%;
+    
+}
+h1{
+    font-family:'League Gothic',sans-serif;
+}
+.login-input{
+ 
+    background-image: linear-gradient( rgba(218, 55, 55, 0.434));
+}
